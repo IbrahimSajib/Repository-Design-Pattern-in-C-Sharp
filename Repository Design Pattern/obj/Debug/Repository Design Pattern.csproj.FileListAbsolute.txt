@@ -1,0 +1,49 @@
+E:\Sajib\C# Project\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe.config
+E:\Sajib\C# Project\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe
+E:\Sajib\C# Project\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.pdb
+E:\Sajib\C# Project\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.AssemblyReference.cache
+E:\Sajib\C# Project\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.CoreCompileInputs.cache
+E:\Sajib\C# Project\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.exe
+E:\Sajib\C# Project\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.pdb
+E:\Sajib\C# Project\With Enum\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe.config
+E:\Sajib\C# Project\With Enum\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe
+E:\Sajib\C# Project\With Enum\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.pdb
+E:\Sajib\C# Project\With Enum\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.AssemblyReference.cache
+E:\Sajib\C# Project\With Enum\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.CoreCompileInputs.cache
+E:\Sajib\C# Project\With Enum\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.exe
+E:\Sajib\C# Project\With Enum\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.pdb
+E:\Sajib\C# Project\My Project\1278766-Repository Design Pattern\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe.config
+E:\Sajib\C# Project\My Project\1278766-Repository Design Pattern\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe
+E:\Sajib\C# Project\My Project\1278766-Repository Design Pattern\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.pdb
+E:\Sajib\C# Project\My Project\1278766-Repository Design Pattern\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.AssemblyReference.cache
+E:\Sajib\C# Project\My Project\1278766-Repository Design Pattern\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.CoreCompileInputs.cache
+E:\Sajib\C# Project\My Project\1278766-Repository Design Pattern\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.exe
+E:\Sajib\C# Project\My Project\1278766-Repository Design Pattern\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.pdb
+E:\Sajib\C#\C# Project\My Project\1278766\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe.config
+E:\Sajib\C#\C# Project\My Project\1278766\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe
+E:\Sajib\C#\C# Project\My Project\1278766\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.pdb
+E:\Sajib\C#\C# Project\My Project\1278766\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.AssemblyReference.cache
+E:\Sajib\C#\C# Project\My Project\1278766\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.CoreCompileInputs.cache
+E:\Sajib\C#\C# Project\My Project\1278766\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.exe
+E:\Sajib\C#\C# Project\My Project\1278766\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.pdb
+D:\Practice For Github\C#--1278766\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe.config
+D:\Practice For Github\C#--1278766\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe
+D:\Practice For Github\C#--1278766\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.pdb
+D:\Practice For Github\C#--1278766\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.AssemblyReference.cache
+D:\Practice For Github\C#--1278766\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.CoreCompileInputs.cache
+D:\Practice For Github\C#--1278766\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.exe
+D:\Practice For Github\C#--1278766\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.pdb
+D:\Practice For Github\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe.config
+D:\Practice For Github\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe
+D:\Practice For Github\Repository Design Pattern\Repository Design Pattern\bin\Debug\Repository Design Pattern.pdb
+D:\Practice For Github\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.AssemblyReference.cache
+D:\Practice For Github\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.CoreCompileInputs.cache
+D:\Practice For Github\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.exe
+D:\Practice For Github\Repository Design Pattern\Repository Design Pattern\obj\Debug\Repository Design Pattern.pdb
+D:\Practice For Github\Repository Design Pattern in C Sharp\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe.config
+D:\Practice For Github\Repository Design Pattern in C Sharp\Repository Design Pattern\bin\Debug\Repository Design Pattern.exe
+D:\Practice For Github\Repository Design Pattern in C Sharp\Repository Design Pattern\bin\Debug\Repository Design Pattern.pdb
+D:\Practice For Github\Repository Design Pattern in C Sharp\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.AssemblyReference.cache
+D:\Practice For Github\Repository Design Pattern in C Sharp\Repository Design Pattern\obj\Debug\Repository Design Pattern.csproj.CoreCompileInputs.cache
+D:\Practice For Github\Repository Design Pattern in C Sharp\Repository Design Pattern\obj\Debug\Repository Design Pattern.exe
+D:\Practice For Github\Repository Design Pattern in C Sharp\Repository Design Pattern\obj\Debug\Repository Design Pattern.pdb
